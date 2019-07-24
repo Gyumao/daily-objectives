@@ -1,0 +1,20 @@
+# Objectifs journaliers
+
+## Mercredi 24/07/2019
+
+
+* [ ] Savoir se documenter (MDN)
+* [x] Comprendre la différence entre Frontend et Backend
+* [ ] Découverte de la sainte trinité du web (HTML, CSS et JS)
+  * [ ] Comprendre les différences et rôle de chacun
+* [x] Découvrir les bases de HTML :
+  * [x] Comprendre la structure de base HTML
+  * [x] Découvrir les principaux tags HTML et comprendre leur utilité
+  * [x] Savoir architecturer une page HTML basique
+  * [x] Comprendre le fonctionnement des attributs
+  * [x] Savoir commenter dans une page HTML
+  * [ ] Découvrir le principe de parents/enfants
+  * [ ] Découvrir le HTML5 sémantique
+* [ ] Découvrir le maquettage fonctionnel (wireframe)
+* [ ] Comprendre la différence entre les liens relatifs et liens absolus
+* [ ] Savoir insérer des scripts JS dans une page HTML
