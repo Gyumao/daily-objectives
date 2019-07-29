@@ -3,7 +3,7 @@
 ## Mercredi 24/07/2019
 
 
-* [ ] Savoir se documenter (MDN)
+* [x] Savoir se documenter (MDN)
 * [x] Comprendre la différence entre Frontend et Backend
 * [ ] Découverte de la sainte trinité du web (HTML, CSS et JS)
   * [ ] Comprendre les différences et rôle de chacun
@@ -14,7 +14,7 @@
   * [x] Comprendre le fonctionnement des attributs
   * [x] Savoir commenter dans une page HTML
   * [x] Découvrir le principe de parents/enfants
-  * [ ] Découvrir le HTML5 sémantique
-* [ ] Découvrir le maquettage fonctionnel (wireframe)
-* [ ] Comprendre la différence entre les liens relatifs et liens absolus
+  * [x] Découvrir le HTML5 sémantique
+* [x] Découvrir le maquettage fonctionnel (wireframe)
+* [x] Comprendre la différence entre les liens relatifs et liens absolus
 * [ ] Savoir insérer des scripts JS dans une page HTML

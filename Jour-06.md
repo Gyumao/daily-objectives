@@ -20,4 +20,3 @@
   * [x] Terminal (fenêtres, onglets, commandes)
   * [x] Découverte et installation de Albert (Linux) / Alfred (Mac)
 * [x] Rédaction en Markdown du contenu du travail en groupe (wiki, repos)
-ho
