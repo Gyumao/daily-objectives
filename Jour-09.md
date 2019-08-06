@@ -1,4 +1,4 @@
-# Objectifs journaliers
+## Objectifs journaliers
 
 ## Mardi 30/07/2019
 
@@ -6,7 +6,7 @@
 * [x] Javascript : 
   * [x] Savoir comment insérer du javascript dans du HTML de différentes manières (http://javascript.info/hello-world)
   * [x] Savoir comment sont structurés les documents javascript (http://javascript.info/structure)
-  * [ ] Comprendre le fonctionnement et l'utilité du `"use strict"` (http://javascript.info/strict-mode)
+  * [x] Comprendre le fonctionnement et l'utilité du `"use strict"` (http://javascript.info/strict-mode)
 
 
 * [x] Algo : 
