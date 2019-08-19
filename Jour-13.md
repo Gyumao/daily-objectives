@@ -8,8 +8,8 @@
     * [x] Comprendre la différence entre unaire, binaire et opérande
     * [x] Comprendre la concaténation
     * [x] Comprendre la précédence des opérateurs
-    * [ ] Comprendre le modulo
-    * [ ] Comprendre l'incrémentation, la différence entre préfix et postfix
+    * [x] Comprendre le modulo
+    * [x] Comprendre l'incrémentation, la différence entre préfix et postfix
 
 * [x] Algo : 
   * [x] Découvrir le tri fusion (Merge Sort)
