@@ -12,6 +12,6 @@
   * [x] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
 
 * [x] CSS : 
-  * [ ] Découvrir l'architecture `7-1` :
-    * [ ] Comprendre l'intérêt de cette architecture
-    * [ ] Construire son propre boilerplate SASS 7-1
+  * [x] Découvrir l'architecture `7-1` :
+    * [x] Comprendre l'intérêt de cette architecture
+    * [x] Construire son propre boilerplate SASS 7-1
