@@ -14,8 +14,8 @@
     * [ ] Comprendre la copie par référence
     * [ ] Savoir copier un objet (cloner)
 
-* [ ] Algo : 
-  * [ ] Ecrire en pseudocode le Bubble Sort (création pure)
-  * [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
+* [x] Algo : 
+  * [x] Ecrire en pseudocode le Bubble Sort (création pure)
+  * [x] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
 
 
