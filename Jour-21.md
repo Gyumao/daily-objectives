@@ -10,9 +10,9 @@
   * [x] Découvrir les Objets en JS (https://javascript.info/object)
     * [x] Comprendre le principe de clé/valeur
     * [x] Comprendre la différence entre un objet et une variable
-    * [ ] Savoir itérer dans un objet
+    * [x] Savoir itérer dans un objet
     * [x] Comprendre la copie par référence
-    * [ ] Savoir copier un objet (cloner)
+    * [x] Savoir copier un objet (cloner)
 
 * [x] Algo : 
   * [x] Ecrire en pseudocode le Bubble Sort (création pure)
