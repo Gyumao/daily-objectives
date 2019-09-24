@@ -3,9 +3,9 @@
 ## Mardi 17/09/2019
 
 
-* [ ] Javascript :
+* [x] Javascript :
 
-  * [ ] Savoir cibler dans le `DOM` (https://javascript.info/searching-elements-dom)
+  * [x] Savoir cibler dans le `DOM` (https://javascript.info/searching-elements-dom)
     * Savoir exactement ce que va cibler : 
       * [x] `querySelector`
       * [x] `querySelectorAll`
