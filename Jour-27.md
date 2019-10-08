@@ -11,7 +11,7 @@
       * [x] Supprimer un `node`
       * [x] Cloner un `node`
 
-  * [ ] Savoir modifier un style dans un document (https://javascript.info/styles-and-classes)
+  * [x] Savoir modifier un style dans un document (https://javascript.info/styles-and-classes)
     * [x] Comprendre la différence entre `className` et `classList`
     * [x] Savoir ajouter, supprimer et toggle une classe
     * [x] Savoir manipuler les styles dans les `elements`
