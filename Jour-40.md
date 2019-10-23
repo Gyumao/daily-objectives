@@ -15,9 +15,9 @@
 
 * [ ] Comprendre les types de données dans `PostgreSQL`
   * [ ] Les types numériques :
-    * [ ] `INT`
-    * [ ] `NUMERIC`
-    * [ ] `SERIAL`
+    * [X] `INT`
+    * [X] `NUMERIC`
+    * [X] `SERIAL`
   * [ ] Les types chaînes de caractères :
     * [ ] `CHAR`
     * [ ] `VARCHAR`
