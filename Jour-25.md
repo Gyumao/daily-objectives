@@ -3,7 +3,7 @@
 ## Lundi 16/09/2019
 
 
-* [ ] Javascript :
+* [x] Javascript :
   * [x] Découvrir le `DOM` :
 
     * [x] Comprendre la différence entre `DOM`, `CSSOM` et `BOM` (https://javascript.info/browser-environment)
@@ -27,7 +27,7 @@
         * [x] `lastChild`
         * [x] `previousSibling`
         * [x] `nextSibling`
-    * [ ] Faire les exercices
+    * [x] Faire les exercices
 
 
 

@@ -15,7 +15,7 @@
 * [x] Savoir ce qu'est `SQL` et une base de données relationnelle (https://youtu.be/MZdO1UbTG4U)
 * [x] Découvrir ce qu'est `PostgreSQL` (https://youtu.be/tzbA7VniRpw)
 * [x] Installation de `PostgreSQL`
-* [ ] Découvrir le fonctionnement du `REPL` de `PostgreSQL`
+* [x] Découvrir le fonctionnement du `REPL` de `PostgreSQL`
 * [x] Création/suppression de comptes utilisateurs
 * [x] Création de bases de données (https://youtu.be/DvDOU-v822w)
 * [x] Suppression de bases de données (https://youtu.be/IWkNbJhn2TM)
@@ -24,6 +24,6 @@
 
 ### Node.JS : 
 
-* [ ] Découverte d'`Express.js`
+* [x] Découverte d'`Express.js`
 * [x] Installation d'`Express.js`
-* [ ] Création d'un hello world personnalisé avec `Express.js` (plusieurs fois)
+* [x] Création d'un hello world personnalisé avec `Express.js` (plusieurs fois)

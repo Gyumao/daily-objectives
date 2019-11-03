@@ -4,8 +4,8 @@
 
 ### Javascript :
 
-  * [ ] Comprendre la `recursion` et le `stack` en Javascript (https://javascript.info/recursion)
-    * [ ] Faire les exercices
+  * [x] Comprendre la `recursion` et le `stack` en Javascript (https://javascript.info/recursion)
+    * [x] Faire les exercices
   
 
 
